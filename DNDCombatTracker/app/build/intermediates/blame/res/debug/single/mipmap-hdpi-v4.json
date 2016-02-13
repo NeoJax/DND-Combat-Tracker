@@ -2,5 +2,9 @@
     {
         "merged": "/Users/NeoJax/AndroidStudioProjects/DNDCombatTracker/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
         "source": "/Users/NeoJax/AndroidStudioProjects/DNDCombatTracker/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/NeoJax/DND-Combat-Tracker/DNDCombatTracker/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/NeoJax/DND-Combat-Tracker/DNDCombatTracker/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
 ]
